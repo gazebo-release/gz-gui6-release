@@ -1,3 +1,9 @@
+ignition-gui6 (6.2.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gui6 6.2.0-1 release
+
+ -- Jenn Nguyen <jenn@openrobotics.org>  Wed, 08 Dec 2021 18:23:57 -0800
+
 ignition-gui6 (6.1.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui6 6.1.0-1 release
