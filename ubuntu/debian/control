@@ -18,6 +18,8 @@ Build-Depends: cmake,
                qml-module-qt-labs-settings,
                qml-module-qtcharts,
                qml-module-qtgraphicaleffects,
+               qml-module-qtlocation,
+               qml-module-qtpositioning,
                qml-module-qtqml-models2,
                qml-module-qtquick-controls,
                qml-module-qtquick-controls2,
@@ -34,7 +36,7 @@ Build-Depends: cmake,
                libignition-rendering6-ogre1-dev,
                libignition-tools-dev,
                libignition-transport11-dev,
-               libignition-msgs8-dev
+               libignition-msgs8-dev (>= 8.2.0)
 Vcs-Browser: https://github.com/ignition-release/ign-gui6-release
 Vcs-Git: https://github.com/ignition-release/ign-gui6-release
 Homepage: http://ignitionrobotics.org/
@@ -63,6 +65,8 @@ Depends: libtinyxml2-dev,
          qml-module-qt-labs-settings,
          qml-module-qtcharts,
          qml-module-qtgraphicaleffects,
+         qml-module-qtlocation,
+         qml-module-qtpositioning,
          qml-module-qtqml-models2,
          qml-module-qtquick-controls,
          qml-module-qtquick-controls2,
@@ -79,7 +83,7 @@ Depends: libtinyxml2-dev,
          libignition-plugin-dev,
          libignition-rendering6-ogre1-dev,
          libignition-tools-dev,
-         libignition-msgs8-dev,
+         libignition-msgs8-dev (>= 8.2.0),
          libignition-gui6 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
