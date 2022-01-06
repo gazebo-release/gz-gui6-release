@@ -1,6 +1,6 @@
-ignition-gui6 (6.3.0-2~focal) focal; urgency=medium
+ignition-gui6 (6.3.0-1~focal) focal; urgency=medium
 
-  * ignition-gui6 6.3.0-2 release
+  * ignition-gui6 6.3.0-1 release
 
  -- Louise Poubel <louise@openrobotics.org>  Thu, 06 Jan 2022 11:08:20 -0800
 
