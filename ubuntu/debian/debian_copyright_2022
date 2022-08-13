@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ignition-gui
-Upstream-Contact: https://github.com/ignitionrobotics/ign-gui/issues
-Source: https://github.com/ignitionrobotics/ign-gui
+Upstream-Contact: https://github.com/gazebosim/gz-gui/issues
+Source: https://github.com/gazebosim/gz-gui
 
 Files: *
 Copyright: 2012-2021, Open Source Robotics Foundation
