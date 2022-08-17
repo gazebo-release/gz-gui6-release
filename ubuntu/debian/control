@@ -96,7 +96,7 @@ Description: Gazebo Gui classes and functions for robot apps - Development files
  Package for development libraries and headers.
 
 Package: libgz-gui6
-Depends: libignition-gui6, ${misc:Depends}
+Depends: libignition-gui6 (= ${binary:Version}), ${misc:Depends}
 Architecture: all
 Priority: optional
 Section: oldlibs
@@ -104,7 +104,7 @@ Description: transitional package
  It's recommended to use the gz packages going forward.
 
 Package: libgz-gui6-dev
-Depends: libignition-gui6-dev, ${misc:Depends}
+Depends: libignition-gui6-dev (= ${binary:Version}), ${misc:Depends}
 Architecture: all
 Priority: optional
 Section: oldlibs
