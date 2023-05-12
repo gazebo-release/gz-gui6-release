@@ -1,3 +1,9 @@
+ignition-gui6 (6.8.0-1~bionic) bionic; urgency=medium
+
+  * ignition-gui6 6.8.0-1 release
+
+ -- Nate Koenig <natekoenig@gmail.com>  Fri, 12 May 2022 09:56:12 -0800
+
 ignition-gui6 (6.7.0-1~bionic) bionic; urgency=medium
 
   * ignition-gui6 6.7.0-1 release
